@@ -5,8 +5,7 @@
 ### Pair is a dynamic and mobile-responsive web application that lets a user search for food and cocktail recipes from separate databases and curate the results in one place. Pair is an essential tool for anyone looking for inspiration in the kitchen or behind the bar.
 
 ### Link to Deployed Project:
-* https://brandyquinlan.github.io/PAIR/
-
+* https://verusbabb.github.io/PAIR/
 ---
 ## Method and Approach
 
